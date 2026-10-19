@@ -5,6 +5,7 @@ Analyze customer churn for a telecommunications company and build a Power BI das
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Dashboard Preview](#dashboard-preview)
 - [Objectives](#objectives)
 - [Tasks](#tasks)
 - [Dashboard Components](#dashboard-components)
@@ -22,6 +23,12 @@ Analyze customer churn for a telecommunications company and build a Power BI das
 A telecommunications company is losing customers. Using the provided customer churn dataset, this project builds an interactive Power BI dashboard that reveals churn patterns, highlights which customer segments are most at risk, and leads to clear recommendations for improving customer retention.
 
 > **Note:** Complete all tasks listed below.
+
+## Dashboard Preview
+
+![Customer Churn Analysis Dashboard](Dashboard.png)
+
+*Customer Churn Analysis Dashboard built in Power BI (`Visual.pbix`).*
 
 ## Objectives
 
@@ -80,6 +87,7 @@ Custom measures in the model include **Total Customers** and **Churned Customers
 .
 ├── data/
 │   └── customer_churn.csv          # Provided dataset (add your copy here)
+├── Dashboard.png                   # Dashboard screenshot used in this README
 ├── Visual.pbix                     # Completed dashboard (Tasks 1 to 3d)
 ├── task1_data_connection.pbix      # Optional: separate file per task
 ├── task2_data_transformation.pbix
@@ -127,6 +135,8 @@ DIVIDE ( [Churned Customers], [Total Customers] )
 
 - A Power BI file (`.pbix`) for each task or level.
 - A short written summary of key findings and recommendations for reducing churn.
+
+
 
 ## Academic Integrity
 
