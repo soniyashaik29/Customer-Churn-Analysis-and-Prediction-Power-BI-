@@ -128,16 +128,6 @@ DIVIDE ( [Churned Customers], [Total Customers] )
 - A Power BI file (`.pbix`) for each task or level.
 - A short written summary of key findings and recommendations for reducing churn.
 
-## Key Findings and Recommendations
-
-Complete this section after building the dashboard.
-
-| Finding | Evidence (visual) | Recommendation |
-|---------|-------------------|----------------|
-| _e.g. Month-to-month contracts churn most_ | _Churn by contract type_ | _Offer incentives to move customers to longer contracts_ |
-| _..._ | _..._ | _..._ |
-| _..._ | _..._ | _..._ |
-
 ## Academic Integrity
 
 Build the dashboard and write your analysis yourself. Do not copy code, DAX or reports from other sources.
